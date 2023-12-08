@@ -1,0 +1,27 @@
+body{
+    padding:1px;
+    background:#293462;
+}
+  .circle {
+    width: 200px;
+    height: 200px;
+    background: #FFF1C1;
+    border-radius:100px;
+    margin:0 auto;
+    margin-top:50px;
+  }
+  .box-1{
+    overflow:hidden;
+    width:100px;
+    height:100px;
+    background:#FE5F55;
+    margin:41px auto;
+    transform: rotate(45deg);
+  }
+  .box-2{
+    width:150px;
+    height:100px;
+    background:#FE5F55;
+    margin:89px 0 0 66px;
+    
+  }
